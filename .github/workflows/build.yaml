@@ -1,4 +1,4 @@
-name: Build: SonarCloud SAST
+name: Build
 on:
   push:
     branches:
