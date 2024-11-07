@@ -1,4 +1,4 @@
-name: workflow for Maven using Snyk security scan
+name: Test Snyk using snyk's Maven action
 on: push
 jobs:
   security:
